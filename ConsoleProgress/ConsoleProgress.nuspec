@@ -3,7 +3,6 @@
   <metadata>
     <id>ConsoleProgress</id>
     <version>$version$</version>
-    <title>$id$</title>
     <authors>Edward Salter</authors>
     <description>Use a simple progress bar in any console application.</description>
     <language>en-GB</language>
