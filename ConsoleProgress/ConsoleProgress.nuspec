@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>ConsoleProgress</id>
+    <version>$version$</version>
+    <title>$id$</title>
+    <authors>Edward Salter</authors>
+    <description>Use a simple progress bar in any console application.</description>
+    <language>en-GB</language>
+    <copyright>Copyright © Edward Salter 2016</copyright>
+    <tags>Console ProgressBar</tags>
+  </metadata>
+</package>
